@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シュガリー♡ロマンス",
+  "base_artist": "gaogao",
+  "createdAt": "2026-02-12T11:46:45.654512Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シュガリー♡ロマンス (feat. 可不)",
+      "artist": "gaogao",
+      "has_synced": false,
+      "path": "select/pl_01_シュガリー♡ロマンス_(feat._可不)_gaogao.txt"
+    }
+  ]
+}
